@@ -51,7 +51,7 @@
     font-size: 20px;
 }
 
-.main > p {
+p.main {
     font-size: 14px;
     color: black;
     text-align: justify;
@@ -59,10 +59,6 @@
     width: 675px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: auto;
-}
-
-.nested {
-    list-style-type: none;
 }
 
 .project-type {
@@ -83,8 +79,6 @@
     font-weight: bold;
 }
 
-ol {
+ol.nested > li {
     list-style-type: none;
 }
-
-
