@@ -67,7 +67,11 @@
     border-bottom: 2px solid black;
     width: 90%;
     font-size: 18px;
-    left: 100px;
+    right: 100px;
+}
+
+.weird {
+    left: 50px;
 }
 
 .section-heading {
@@ -78,7 +82,7 @@
     width: 85%;
     text-align: left;
     font-weight: bold;
-    left: 100px;
+    right: 100px;
 }
 
 ul, li {
