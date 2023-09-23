@@ -79,6 +79,6 @@ p.main {
     font-weight: bold;
 }
 
-li {
+ol, li {
     list-style-type: none;
 }
