@@ -67,7 +67,6 @@
     border-bottom: 2px solid black;
     width: 90%;
     font-size: 18px;
-    right: 100px;
 }
 
 .weird {
@@ -82,7 +81,6 @@
     width: 85%;
     text-align: left;
     font-weight: bold;
-    right: 100px;
 }
 
 ul, li {
