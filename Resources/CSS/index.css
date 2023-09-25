@@ -90,26 +90,36 @@ ul {
 }
 
 #calc-1 {
+    margin-left: auto;
+    margin-right: auto;
     width: 375px;
     height: 155px;
 }
 
 #clac-2 {
+    margin-left: auto;
+    margin-right: auto;
     width: 375px;
     height: 155px;
 }
 
 #sci-1 {
+    margin-left: auto;
+    margin-right: auto;
     width: 484px;
     height: 444px;
 }
 
 #sci-2 {
+    margin-left: auto;
+    margin-right: auto;
     width: 484px;
     height: 444px;
 }
 
 #sci-3 {
+    margin-left: auto;
+    margin-right: auto;
     width: 638px;
     height: 470px;
 }
