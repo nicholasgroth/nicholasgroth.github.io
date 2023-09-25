@@ -51,12 +51,12 @@
     font-size: 20px;
 }
 
-.explain {
+.main p {
     font-size: 14px;
     color: black;
     text-align: justify;
     margin: auto;
-    width: 725px;
+    width: 675px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: auto;
 }
@@ -69,10 +69,6 @@
     font-size: 18px;
 }
 
-.weird {
-    left: 50px;
-}
-
 .section-heading {
     color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -83,6 +79,37 @@
     font-weight: bold;
 }
 
-ul, li {
+ul {
     list-style-type: none;
+}
+
+.images {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#calc-1 {
+    width: 375px;
+    height: 155px;
+}
+
+#clac-2 {
+    width: 375px;
+    height: 155px;
+}
+
+#sci-1 {
+    width: 484px;
+    height: 444px;
+}
+
+#sci-2 {
+    width: 484px;
+    height: 444px;
+}
+
+#sci-3 {
+    width: 638px;
+    height: 470px;
 }
