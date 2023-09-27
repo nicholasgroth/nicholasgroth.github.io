@@ -98,3 +98,76 @@ ul {
     width: 425px;
     height: 400px;
 }
+
+#blackjack-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 425px;
+}
+
+#launch-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 625px;
+    height: 425px;
+}
+
+#launch-caption {
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 600px;
+}
+
+#notice {
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#numeric-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 225px;
+}
+
+#chem-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 300px;
+}
+
+#chem-caption {
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 575px;
+    text-align: center;
+}
+
+#compositions {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    height: 430px;
+}
+
+#HHO-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 450px;
+}
+
+#HHO-caption {
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 600px;
+}
